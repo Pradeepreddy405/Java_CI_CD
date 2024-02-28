@@ -4,7 +4,7 @@ class helloworld {
     int n = 5;
     // for loop  
     for (int i = 1; i <= n; ++i) {
-      System.out.println("Java is fun");
+      System.out.println("Developer changed his code 2nd time");
     }
   }
 }
